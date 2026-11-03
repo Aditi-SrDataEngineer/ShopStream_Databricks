@@ -1,0 +1,17 @@
+# Lakeflow Declarative Pipeline (formerly DLT) — the declarative twin of the notebooks.
+# Writes to <catalog>.lakeflow so it never collides with the notebook-built tables.
+resources:
+  pipelines:
+    shopstream_lakeflow:
+      name: shopstream-lakeflow-pipeline
+      catalog: ${var.catalog}
+      schema: lakeflow
+      serverless: true
+      channel: CURRENT
+      continuous: false                # triggered: process available data, then stop
+      libraries:
+        - notebook:
+            path: ../pipelines/shopstream_lakeflow_pipeline.py
+      configuration:
+        shopstream.raw_path: /Volumes/${var.catalog}/landing/raw_files
+        shopstream.src_path: ${workspace.file_path}/src

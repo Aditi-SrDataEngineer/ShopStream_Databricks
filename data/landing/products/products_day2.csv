@@ -1,0 +1,16 @@
+product_id,product_name,category,sub_category,brand,unit_price,cost_price,is_active,updated_at
+P00054,Peter England Men Apparel Model-3,Fashion,Men Apparel,Peter England,2593.50,2075.94,Y,2026-10-31 21:00:00
+P00060,Allen Solly Men Apparel Model-3,Fashion,Men Apparel,Allen Solly,3555.00,2969.19,Y,2026-10-31 21:00:00
+P00027,Sony Audio Model-4,Electronics,Audio,Sony,14416.50,8391.81,Y,2026-10-31 21:00:00
+P00159,Lakme Skincare Model-2,Beauty,Skincare,Lakme,759.00,427.56,Y,2026-10-31 21:00:00
+P00124,Tata Staples Model-2,Grocery,Staples,Tata,640.50,336.69,Y,2026-10-31 21:00:00
+P00026,Sony Audio Model-3,Electronics,Audio,Sony,2403.50,1793.12,Y,2026-10-31 21:00:00
+P00004,Samsung Mobiles Model-4,Electronics,Mobiles,Samsung,13617.00,9917.42,Y,2026-10-31 21:00:00
+P00095,Nike Footwear Model-3,Fashion,Footwear,Nike,4347.00,2914.60,Y,2026-10-31 21:00:00
+P00022,boAt Audio Model-4,Electronics,Audio,boAt,2916.00,2007.16,Y,2026-10-31 21:00:00
+P00138,Fortune Staples Model-4,Grocery,Staples,Fortune,73.50,39.82,Y,2026-10-31 21:00:00
+P00110,Borosil Kitchen Model-3,Home,Kitchen,Borosil,7927.50,5227.76,Y,2026-10-31 21:00:00
+P00161,Lakme Skincare Model-4,Beauty,Skincare,Lakme,651.00,419.96,Y,2026-10-31 21:00:00
+P00175,Nivea Skincare Model-7,Beauty,Skincare,Nivea,1459.50,981.05,Y,2026-10-31 21:00:00
+P00006,Xiaomi Mobiles Model-2,Electronics,Mobiles,Xiaomi,60238.50,39603.16,Y,2026-10-31 21:00:00
+P00053,Peter England Men Apparel Model-2,Fashion,Men Apparel,Peter England,2563.00,1343.48,Y,2026-10-31 21:00:00

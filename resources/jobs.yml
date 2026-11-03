@@ -1,0 +1,91 @@
+# Lakeflow Job (Workflow): daily medallion run on serverless compute.
+# No cluster definitions = serverless jobs compute.
+resources:
+  jobs:
+    shopstream_daily_job:
+      name: shopstream-daily-medallion
+      description: Bronze -> Silver -> Gold -> DQ gates -> maintenance -> governance
+      max_concurrent_runs: 1
+      timeout_seconds: 3600
+      email_notifications:
+        on_failure: [ "${var.notify_email}" ]
+      schedule:
+        quartz_cron_expression: "0 30 6 * * ?"     # 06:30 every day
+        timezone_id: Asia/Kolkata
+        pause_status: PAUSED                        # un-pause when you want it live
+      parameters:
+        - name: catalog
+          default: ${var.catalog}
+      tasks:
+        - task_key: setup
+          notebook_task:
+            notebook_path: ../notebooks/00_setup.py
+
+        # Bronze: one task per source, running IN PARALLEL
+        - task_key: bronze_customers
+          depends_on: [ { task_key: setup } ]
+          notebook_task: { notebook_path: ../notebooks/01_bronze_autoloader.py, base_parameters: { entity: customers } }
+        - task_key: bronze_products
+          depends_on: [ { task_key: setup } ]
+          notebook_task: { notebook_path: ../notebooks/01_bronze_autoloader.py, base_parameters: { entity: products } }
+        - task_key: bronze_orders
+          depends_on: [ { task_key: setup } ]
+          notebook_task: { notebook_path: ../notebooks/01_bronze_autoloader.py, base_parameters: { entity: orders } }
+        - task_key: bronze_payments
+          depends_on: [ { task_key: setup } ]
+          notebook_task: { notebook_path: ../notebooks/01_bronze_autoloader.py, base_parameters: { entity: payments } }
+
+        # Silver: each entity only waits for its own bronze task
+        - task_key: silver_customers
+          depends_on: [ { task_key: bronze_customers } ]
+          notebook_task: { notebook_path: ../notebooks/02_silver_transform.py, base_parameters: { entity: customers } }
+        - task_key: silver_products
+          depends_on: [ { task_key: bronze_products } ]
+          notebook_task: { notebook_path: ../notebooks/02_silver_transform.py, base_parameters: { entity: products } }
+        - task_key: silver_orders
+          depends_on: [ { task_key: bronze_orders } ]
+          notebook_task: { notebook_path: ../notebooks/02_silver_transform.py, base_parameters: { entity: orders } }
+        - task_key: silver_payments
+          depends_on: [ { task_key: bronze_payments } ]
+          notebook_task: { notebook_path: ../notebooks/02_silver_transform.py, base_parameters: { entity: payments } }
+
+        - task_key: gold
+          depends_on:
+            - { task_key: silver_customers }
+            - { task_key: silver_products }
+            - { task_key: silver_orders }
+            - { task_key: silver_payments }
+          notebook_task: { notebook_path: ../notebooks/03_gold_build.py }
+
+        - task_key: dq_gates
+          depends_on: [ { task_key: gold } ]
+          notebook_task: { notebook_path: ../notebooks/04_data_quality_checks.py }
+
+        - task_key: governance
+          depends_on: [ { task_key: dq_gates } ]
+          notebook_task: { notebook_path: ../notebooks/06_unity_catalog_governance.py }
+
+    shopstream_weekly_maintenance:
+      name: shopstream-weekly-maintenance
+      schedule:
+        quartz_cron_expression: "0 0 2 ? * SUN"
+        timezone_id: Asia/Kolkata
+        pause_status: PAUSED
+      parameters:
+        - name: catalog
+          default: ${var.catalog}
+      tasks:
+        - task_key: maintenance
+          notebook_task: { notebook_path: ../notebooks/05_delta_maintenance.py }
+
+    # Optional: event-driven alternative — run the pipeline whenever a new file lands
+    shopstream_file_arrival_job:
+      name: shopstream-on-file-arrival
+      trigger:
+        pause_status: PAUSED
+        file_arrival:
+          url: /Volumes/${var.catalog}/landing/raw_files/
+      tasks:
+        - task_key: run_pipeline
+          pipeline_task:
+            pipeline_id: ${resources.pipelines.shopstream_lakeflow.id}

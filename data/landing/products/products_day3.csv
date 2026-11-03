@@ -1,0 +1,17 @@
+product_id,product_name,category,sub_category,brand,unit_price,cost_price,is_active,updated_at
+P00124,Tata Staples Model-2,Grocery,Staples,Tata,576.45,336.69,Y,2026-11-01 21:00:00
+P00172,Nivea Skincare Model-4,Beauty,Skincare,Nivea,972.00,847.87,Y,2026-11-01 21:00:00
+P00092,Puma Footwear Model-5,Fashion,Footwear,Puma,1859.00,1205.03,Y,2026-11-01 21:00:00
+P00022,boAt Audio Model-4,Electronics,Audio,boAt,2624.40,2007.16,Y,2026-11-01 21:00:00
+P00058,Allen Solly Men Apparel Model-1,Fashion,Men Apparel,Allen Solly,2904.00,1774.48,Y,2026-11-01 21:00:00
+P00133,Aashirvaad Staples Model-5,Grocery,Staples,Aashirvaad,110.00,70.86,Y,2026-11-01 21:00:00
+P00059,Allen Solly Men Apparel Model-2,Fashion,Men Apparel,Allen Solly,1078.00,627.93,Y,2026-11-01 21:00:00
+P00168,Mamaearth Skincare Model-6,Beauty,Skincare,Mamaearth,921.50,657.52,Y,2026-11-01 21:00:00
+P00078,FabIndia Women Apparel Model-2,Fashion,Women Apparel,FabIndia,2929.50,1910.62,Y,2026-11-01 21:00:00
+P00055,Peter England Men Apparel Model-4,Fashion,Men Apparel,Peter England,2213.50,1397.37,Y,2026-11-01 21:00:00
+P00156,Nescafe Beverages Model-4,Grocery,Beverages,Nescafe,714.00,452.25,Y,2026-11-01 21:00:00
+P00112,Borosil Kitchen Model-5,Home,Kitchen,Borosil,883.50,664.34,Y,2026-11-01 21:00:00
+P00014,OnePlus Mobiles Model-6,Electronics,Mobiles,OnePlus,69741.00,54315.18,Y,2026-11-01 21:00:00
+P00072,W Women Apparel Model-1,Fashion,Women Apparel,W,1503.00,1059.65,Y,2026-11-01 21:00:00
+P00145,Tata Tea Beverages Model-5,Grocery,Beverages,Tata Tea,598.50,363.90,Y,2026-11-01 21:00:00
+P00092,Puma Footwear Model-5,Fashion,Footwear,Puma,1859.00,1205.03,N,2026-11-02 00:00:00

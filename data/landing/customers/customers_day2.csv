@@ -1,0 +1,207 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,loyalty_tier,op,updated_at
+C001561,Rohan,Kulkarni,rohan.kulkarni1561@gmail.com,+919836015192,Chennai,Tamil Nadu,2025-11-18,GOLD,UPDATE,2026-10-31 21:00:00
+C001347,Shreya,Menon,shreya.menon1347@yahoo.in,+916721781472,Jaipur,Rajasthan,2026-09-27,BRONZE,UPDATE,2026-10-31 05:00:00
+C000059,Priya,Pillai,priya.pillai59.new@yahoo.in,+916345495128,Indore,Madhya Pradesh,2026-02-07,BRONZE,UPDATE,2026-10-31 17:00:00
+C000460,Vivaan,Iyer,vivaan.iyer460.new@gmail.com,+916815976168,Ahmedabad,Gujarat,2025-09-13,SILVER,UPDATE,2026-10-31 16:00:00
+C000725,Kavya,Vaidya,kavya.vaidya725.new@yahoo.in,+918396677171,Pune,Maharashtra,2026-05-31,GOLD,UPDATE,2026-10-31 08:00:00
+C000005,Meera,Reddy,meera.reddy5@yahoo.in,+918213849513,Chandigarh,Chandigarh,2026-03-30,SILVER,UPDATE,2026-10-31 05:00:00
+C000547,Diya,Verma,diya.verma547@yahoo.in,+918792442545,Hyderabad,Telangana,2026-01-09,SILVER,UPDATE,2026-10-31 18:00:00
+C000704,Karan,Joshi,karan.joshi704@yahoo.in,+917061553531,Pune,Maharashtra,2026-05-26,PLATINUM,UPDATE,2026-10-31 09:00:00
+C000110,Nikhil,Chatterjee,nikhil.chatterjee110@gmail.com,+916830164630,Coimbatore,Tamil Nadu,2026-06-17,SILVER,UPDATE,2026-10-31 23:00:00
+C001977,Neha,Verma,neha.verma1977@outlook.com,+917496880286,Mysuru,Karnataka,2024-12-23,SILVER,UPDATE,2026-10-31 14:00:00
+C001550,Shreya,Agarwal,shreya.agarwal1550@yahoo.in,+916731908588,Jaipur,Rajasthan,2026-01-18,PLATINUM,UPDATE,2026-10-31 06:00:00
+C000796,Kavya,Patel,kavya.patel796.new@gmail.com,+919788882140,Mumbai,Maharashtra,2025-12-30,BRONZE,UPDATE,2026-10-31 13:00:00
+C000705,Kavya,Iyer,kavya.iyer705@outlook.com,+916895273628,Mysuru,Karnataka,2025-11-02,BRONZE,UPDATE,2026-10-31 09:00:00
+C000735,Neha,Sharma,neha.sharma735@gmail.com,+919823914858,Mysuru,Karnataka,2025-06-22,BRONZE,UPDATE,2026-10-31 06:00:00
+C001289,Reyansh,Patel,reyansh.patel1289.new@yahoo.in,+916120019264,Mumbai,Maharashtra,2024-11-11,BRONZE,UPDATE,2026-10-31 18:00:00
+C001704,Vivaan,Joshi,vivaan.joshi1704@yahoo.in,+916313649737,Coimbatore,Tamil Nadu,2026-03-27,BRONZE,UPDATE,2026-10-31 15:00:00
+C001525,Vihaan,Kulkarni,vihaan.kulkarni1525.new@gmail.com,+918341106022,Kochi,Kerala,2025-02-28,GOLD,UPDATE,2026-10-31 22:00:00
+C000186,Ananya,Deshmukh,ananya.deshmukh186.new@yahoo.in,+919502142446,Bhopal,Madhya Pradesh,2025-12-26,BRONZE,UPDATE,2026-10-31 06:00:00
+C000037,Meera,Gupta,meera.gupta37@yahoo.in,+917461744198,Surat,Gujarat,2025-06-05,PLATINUM,UPDATE,2026-10-31 22:00:00
+C001703,Vivaan,Kulkarni,vivaan.kulkarni1703.new@yahoo.in,+916080953576,Jaipur,Rajasthan,2026-09-01,BRONZE,UPDATE,2026-10-31 09:00:00
+C000940,Priya,Menon,priya.menon940@gmail.com,+919051631419,Surat,Gujarat,2025-08-24,BRONZE,UPDATE,2026-10-31 11:00:00
+C000026,Karan,Sharma,karan.sharma26@gmail.com,+919604460472,Hyderabad,Telangana,2024-11-15,GOLD,UPDATE,2026-10-31 05:00:00
+C001842,Shreya,Kulkarni,shreya.kulkarni1842.new@outlook.com,+919321766358,Nagpur,Maharashtra,2025-04-12,BRONZE,UPDATE,2026-10-31 18:00:00
+C001178,Ishaan,Patel,ishaan.patel1178@yahoo.in,+917749238945,Mysuru,Karnataka,2026-04-11,SILVER,UPDATE,2026-10-31 22:00:00
+C000166,Rohan,Singh,rohan.singh166@yahoo.in,+918913305623,Coimbatore,Tamil Nadu,2026-01-17,PLATINUM,UPDATE,2026-10-31 14:00:00
+C000084,Kavya,Reddy,kavya.reddy84@gmail.com,+916197529702,Mysuru,Karnataka,2025-07-09,SILVER,UPDATE,2026-10-31 11:00:00
+C001937,Ananya,Vaidya,ananya.vaidya1937.new@gmail.com,+918054278779,Nagpur,Maharashtra,2025-01-29,BRONZE,UPDATE,2026-10-31 22:00:00
+C001164,Arjun,Chatterjee,arjun.chatterjee1164.new@gmail.com,+919840787093,Lucknow,Uttar Pradesh,2025-06-25,GOLD,UPDATE,2026-10-31 06:00:00
+C000500,Rohan,Kulkarni,rohan.kulkarni500@yahoo.in,+917667628074,Lucknow,Uttar Pradesh,2026-05-26,SILVER,UPDATE,2026-10-31 13:00:00
+C001073,Rohan,Kulkarni,rohan.kulkarni1073@outlook.com,+917936930132,Hyderabad,Telangana,2025-05-11,SILVER,UPDATE,2026-10-31 10:00:00
+C000696,Nikhil,Menon,nikhil.menon696@yahoo.in,+918785101763,Delhi,Delhi,2026-05-31,GOLD,UPDATE,2026-10-31 22:00:00
+C001599,Reyansh,Singh,reyansh.singh1599@yahoo.in,+918076564462,Bengaluru,Karnataka,2026-07-25,SILVER,UPDATE,2026-10-31 08:00:00
+C000404,Tanvi,Chatterjee,tanvi.chatterjee404@yahoo.in,+916675641216,Chennai,Tamil Nadu,2025-05-17,GOLD,UPDATE,2026-10-31 18:00:00
+C000368,Arjun,Das,arjun.das368@yahoo.in,+919723941036,Bhopal,Madhya Pradesh,2026-03-24,BRONZE,UPDATE,2026-10-31 08:00:00
+C001926,Rahul,Nair,rahul.nair1926.new@yahoo.in,+918247717111,Bhopal,Madhya Pradesh,2025-08-17,BRONZE,UPDATE,2026-10-31 04:00:00
+C000175,Shreya,Nair,shreya.nair175@outlook.com,+916162222647,Chandigarh,Chandigarh,2025-12-14,BRONZE,UPDATE,2026-10-31 08:00:00
+C001321,Rahul,Rao,rahul.rao1321@outlook.com,+917059962775,Jaipur,Rajasthan,2025-05-07,BRONZE,UPDATE,2026-10-31 07:00:00
+C001803,Isha,Reddy,isha.reddy1803@yahoo.in,+916287969013,Mysuru,Karnataka,2024-11-04,SILVER,UPDATE,2026-10-31 23:00:00
+C000589,Karan,Chatterjee,karan.chatterjee589@outlook.com,+919643211329,Pune,Maharashtra,2024-12-26,SILVER,UPDATE,2026-10-31 08:00:00
+C000006,Aditya,Joshi,aditya.joshi6@gmail.com,+919383198439,Kolkata,West Bengal,2025-04-03,BRONZE,UPDATE,2026-10-31 17:00:00
+C001282,Sneha,Banerjee,sneha.banerjee1282.new@yahoo.in,+916293076437,Indore,Madhya Pradesh,2025-01-03,SILVER,UPDATE,2026-10-31 15:00:00
+C000960,Aditi,Singh,aditi.singh960@yahoo.in,+919984919149,Mysuru,Karnataka,2025-07-06,SILVER,UPDATE,2026-10-31 15:00:00
+C000971,Amit,Das,amit.das971@outlook.com,+917010726971,Mysuru,Karnataka,2025-01-05,BRONZE,UPDATE,2026-10-31 14:00:00
+C000847,Aditi,Agarwal,aditi.agarwal847.new@gmail.com,+916883310198,Kochi,Kerala,2026-04-13,GOLD,UPDATE,2026-10-31 17:00:00
+C000567,Pooja,Menon,pooja.menon567@yahoo.in,+917664534549,Pune,Maharashtra,2025-09-19,PLATINUM,UPDATE,2026-10-31 15:00:00
+C001365,Karan,Rao,karan.rao1365@gmail.com,+918267074575,Jaipur,Rajasthan,2026-05-18,SILVER,UPDATE,2026-10-31 22:00:00
+C001226,Nikhil,Patel,nikhil.patel1226.new@gmail.com,+918868437461,Ahmedabad,Gujarat,2025-11-04,SILVER,UPDATE,2026-10-31 07:00:00
+C001876,Rohan,Vaidya,rohan.vaidya1876@outlook.com,+917270924155,Pune,Maharashtra,2025-08-04,SILVER,UPDATE,2026-10-31 04:00:00
+C000979,Meera,Chatterjee,meera.chatterjee979@yahoo.in,+919122782774,Lucknow,Uttar Pradesh,2026-04-16,BRONZE,UPDATE,2026-10-31 15:00:00
+C000930,Krishna,Mehta,krishna.mehta930@outlook.com,+916955229116,Lucknow,Uttar Pradesh,2026-09-23,PLATINUM,UPDATE,2026-10-31 04:00:00
+C001064,Tanvi,Agarwal,tanvi.agarwal1064@yahoo.in,+917193906893,Lucknow,Uttar Pradesh,2025-11-06,GOLD,UPDATE,2026-10-31 15:00:00
+C001183,Isha,Vaidya,isha.vaidya1183@gmail.com,+917156032258,Hyderabad,Telangana,2026-01-04,PLATINUM,UPDATE,2026-10-31 14:00:00
+C000732,Riya,Mehta,riya.mehta732@yahoo.in,+919262342887,Surat,Gujarat,2026-03-06,BRONZE,UPDATE,2026-10-31 09:00:00
+C000400,Vihaan,Sharma,vihaan.sharma400@outlook.com,+916048750473,Kochi,Kerala,2025-03-07,BRONZE,UPDATE,2026-10-31 05:00:00
+C001751,Karan,Reddy,karan.reddy1751@outlook.com,+916135716136,Mumbai,Maharashtra,2024-11-30,PLATINUM,UPDATE,2026-10-31 19:00:00
+C000896,Shreya,Banerjee,shreya.banerjee896@outlook.com,+916872395778,Kolkata,West Bengal,2025-03-17,GOLD,UPDATE,2026-10-31 19:00:00
+C000065,Vivaan,Banerjee,vivaan.banerjee65@yahoo.in,+916100048628,Nagpur,Maharashtra,2025-07-09,BRONZE,UPDATE,2026-10-31 21:00:00
+C000321,Ananya,Shah,ananya.shah321.new@gmail.com,+916022313296,Bengaluru,Karnataka,2025-06-27,BRONZE,UPDATE,2026-10-31 16:00:00
+C001900,Priya,Pillai,priya.pillai1900@yahoo.in,+916966793739,Chandigarh,Chandigarh,2026-08-29,SILVER,UPDATE,2026-10-31 06:00:00
+C001481,Arjun,Patel,arjun.patel1481@gmail.com,+919249558050,Ahmedabad,Gujarat,2026-06-19,BRONZE,UPDATE,2026-10-31 08:00:00
+C000728,Riya,Rao,riya.rao728.new@gmail.com,+918259977516,Coimbatore,Tamil Nadu,2026-03-25,BRONZE,UPDATE,2026-10-31 06:00:00
+C000786,Pooja,Khan,pooja.khan786@yahoo.in,+919564365447,Pune,Maharashtra,2026-03-16,BRONZE,UPDATE,2026-10-31 16:00:00
+C000950,Meera,Shah,meera.shah950@yahoo.in,+916908834301,Lucknow,Uttar Pradesh,2026-03-15,BRONZE,UPDATE,2026-10-31 14:00:00
+C000608,Amit,Deshmukh,amit.deshmukh608.new@yahoo.in,+918152307647,Mysuru,Karnataka,2025-12-01,BRONZE,UPDATE,2026-10-31 11:00:00
+C001440,Sneha,Pillai,sneha.pillai1440@yahoo.in,+917548630784,Chennai,Tamil Nadu,2026-05-29,GOLD,UPDATE,2026-10-31 09:00:00
+C001121,Vihaan,Singh,vihaan.singh1121@yahoo.in,+918995801715,Surat,Gujarat,2025-10-04,SILVER,UPDATE,2026-10-31 19:00:00
+C000779,Karan,Gupta,karan.gupta779@gmail.com,+919981877920,Nagpur,Maharashtra,2025-10-07,PLATINUM,UPDATE,2026-10-31 06:00:00
+C000734,Diya,Banerjee,diya.banerjee734.new@yahoo.in,+916000840218,Kochi,Kerala,2026-05-18,BRONZE,UPDATE,2026-10-31 20:00:00
+C001700,Krishna,Deshmukh,krishna.deshmukh1700.new@gmail.com,+916527198854,Chandigarh,Chandigarh,2025-08-16,SILVER,UPDATE,2026-10-31 11:00:00
+C000700,Pooja,Banerjee,pooja.banerjee700@gmail.com,+916387393108,Chandigarh,Chandigarh,2025-02-25,BRONZE,UPDATE,2026-10-31 07:00:00
+C001267,Rohan,Menon,rohan.menon1267@gmail.com,+917952765682,Bhopal,Madhya Pradesh,2024-12-14,SILVER,UPDATE,2026-10-31 12:00:00
+C001621,Aarav,Shah,aarav.shah1621@outlook.com,+917433397518,Lucknow,Uttar Pradesh,2026-09-23,SILVER,UPDATE,2026-10-31 13:00:00
+C001807,Saanvi,Deshmukh,saanvi.deshmukh1807@outlook.com,+919294191986,Surat,Gujarat,2025-09-09,PLATINUM,UPDATE,2026-10-31 12:00:00
+C001035,Isha,Rao,isha.rao1035@outlook.com,+918213493993,Delhi,Delhi,2025-10-18,GOLD,UPDATE,2026-10-31 06:00:00
+C001410,Sneha,Agarwal,sneha.agarwal1410@outlook.com,+918424697586,Pune,Maharashtra,2025-03-10,SILVER,UPDATE,2026-10-31 19:00:00
+C000764,Aditi,Reddy,aditi.reddy764.new@yahoo.in,+918939094899,Mumbai,Maharashtra,2025-07-31,BRONZE,UPDATE,2026-10-31 21:00:00
+C000529,Shreya,Reddy,shreya.reddy529@yahoo.in,+917547110201,Pune,Maharashtra,2026-07-15,GOLD,UPDATE,2026-10-31 19:00:00
+C000096,Arjun,Pillai,arjun.pillai96@outlook.com,+919283499484,Surat,Gujarat,2025-05-30,GOLD,UPDATE,2026-10-31 14:00:00
+C000621,Arjun,Chatterjee,arjun.chatterjee621@gmail.com,+918284889494,Chennai,Tamil Nadu,2025-12-03,BRONZE,UPDATE,2026-10-31 16:00:00
+C001654,Sai,Khan,sai.khan1654@gmail.com,+918045084752,Hyderabad,Telangana,2025-11-08,BRONZE,UPDATE,2026-10-31 18:00:00
+C001268,Sai,Mehta,sai.mehta1268.new@yahoo.in,+916674462136,Lucknow,Uttar Pradesh,2025-01-25,BRONZE,UPDATE,2026-10-31 23:00:00
+C001437,Varun,Verma,varun.verma1437@gmail.com,+916002301808,Chennai,Tamil Nadu,2024-12-10,GOLD,UPDATE,2026-10-31 07:00:00
+C000829,Reyansh,Pillai,reyansh.pillai829@outlook.com,+917367882278,Ahmedabad,Gujarat,2025-05-29,BRONZE,UPDATE,2026-10-31 12:00:00
+C001540,Shreya,Pillai,shreya.pillai1540.new@outlook.com,+919285998482,Lucknow,Uttar Pradesh,2025-07-18,BRONZE,UPDATE,2026-10-31 08:00:00
+C000109,Sneha,Gupta,sneha.gupta109@gmail.com,+919379257051,Mumbai,Maharashtra,2025-07-17,SILVER,UPDATE,2026-10-31 10:00:00
+C000905,Aditya,Iyer,aditya.iyer905.new@yahoo.in,+918555408498,Bengaluru,Karnataka,2026-07-13,SILVER,UPDATE,2026-10-31 15:00:00
+C001296,Karan,Agarwal,karan.agarwal1296@gmail.com,+919060297821,Ahmedabad,Gujarat,2025-12-21,SILVER,UPDATE,2026-10-31 11:00:00
+C001602,Reyansh,Rao,reyansh.rao1602@gmail.com,+917193306988,Mysuru,Karnataka,2025-09-24,BRONZE,UPDATE,2026-10-31 20:00:00
+C001868,Aarav,Singh,aarav.singh1868.new@yahoo.in,+919312964517,Jaipur,Rajasthan,2024-12-12,BRONZE,UPDATE,2026-10-31 13:00:00
+C000245,Diya,Banerjee,diya.banerjee245@outlook.com,+918217977021,Delhi,Delhi,2025-04-15,BRONZE,UPDATE,2026-10-31 09:00:00
+C000604,Aditya,Kulkarni,aditya.kulkarni604.new@outlook.com,+916843668735,Mysuru,Karnataka,2025-05-23,SILVER,UPDATE,2026-10-31 17:00:00
+C000238,Isha,Khan,isha.khan238@outlook.com,+916389285444,Indore,Madhya Pradesh,2024-12-18,SILVER,UPDATE,2026-10-31 11:00:00
+C000116,Vivaan,Menon,vivaan.menon116@yahoo.in,+917967277638,Kolkata,West Bengal,2026-03-14,PLATINUM,UPDATE,2026-10-31 20:00:00
+C001469,Nikhil,Iyer,nikhil.iyer1469@outlook.com,+919514380000,Chandigarh,Chandigarh,2025-07-20,PLATINUM,UPDATE,2026-10-31 19:00:00
+C001626,Varun,Mehta,varun.mehta1626.new@outlook.com,+917792265280,Jaipur,Rajasthan,2025-06-02,BRONZE,UPDATE,2026-10-31 12:00:00
+C001346,Varun,Chatterjee,varun.chatterjee1346.new@gmail.com,+916549160346,Bhopal,Madhya Pradesh,2025-11-21,SILVER,UPDATE,2026-10-31 22:00:00
+C001726,Aditi,Vaidya,aditi.vaidya1726@gmail.com,+916964568093,Hyderabad,Telangana,2026-01-13,SILVER,UPDATE,2026-10-31 06:00:00
+C001299,Yash,Chatterjee,yash.chatterjee1299@yahoo.in,+918194840568,Lucknow,Uttar Pradesh,2026-03-12,SILVER,UPDATE,2026-10-31 14:00:00
+C000356,Pooja,Vaidya,pooja.vaidya356@outlook.com,+916716681967,Chennai,Tamil Nadu,2025-11-15,SILVER,UPDATE,2026-10-31 21:00:00
+C000019,Tanvi,Das,tanvi.das19@outlook.com,+919155229266,Pune,Maharashtra,2025-12-29,SILVER,UPDATE,2026-10-31 22:00:00
+C000396,Aditya,Deshmukh,aditya.deshmukh396@outlook.com,+919955342162,Kochi,Kerala,2025-04-06,PLATINUM,UPDATE,2026-10-31 20:00:00
+C001383,Aditya,Pillai,aditya.pillai1383@gmail.com,+917670262245,Delhi,Delhi,2025-02-04,SILVER,UPDATE,2026-10-31 11:00:00
+C001127,Nikhil,Das,nikhil.das1127.new@yahoo.in,+917008110018,Indore,Madhya Pradesh,2025-04-11,SILVER,UPDATE,2026-10-31 15:00:00
+C000899,Amit,Chatterjee,amit.chatterjee899.new@yahoo.in,+917669743840,Hyderabad,Telangana,2024-12-18,SILVER,UPDATE,2026-10-31 22:00:00
+C001415,Aditi,Gupta,aditi.gupta1415@outlook.com,+918214180224,Kolkata,West Bengal,2026-08-03,PLATINUM,UPDATE,2026-10-31 12:00:00
+C000575,Krishna,Reddy,krishna.reddy575@gmail.com,+919376953419,Bhopal,Madhya Pradesh,2025-11-27,BRONZE,UPDATE,2026-10-31 17:00:00
+C001932,Tanvi,Pillai,tanvi.pillai1932@gmail.com,+917918273474,Nagpur,Maharashtra,2026-01-14,GOLD,UPDATE,2026-10-31 06:00:00
+C001322,Rahul,Menon,rahul.menon1322@outlook.com,+918859055095,Mumbai,Maharashtra,2026-03-16,SILVER,UPDATE,2026-10-31 17:00:00
+C001254,Karan,Deshmukh,karan.deshmukh1254@yahoo.in,+919504533983,Kolkata,West Bengal,2025-09-09,GOLD,UPDATE,2026-10-31 20:00:00
+C000473,Reyansh,Vaidya,reyansh.vaidya473@outlook.com,+917107613491,Mysuru,Karnataka,2025-07-06,PLATINUM,UPDATE,2026-10-31 15:00:00
+C000124,Aditya,Patel,aditya.patel124@yahoo.in,+916414741061,Lucknow,Uttar Pradesh,2026-06-01,SILVER,UPDATE,2026-10-31 14:00:00
+C001098,Arjun,Shah,arjun.shah1098@yahoo.in,+918201828849,Bengaluru,Karnataka,2025-04-04,SILVER,UPDATE,2026-10-31 16:00:00
+C001891,Reyansh,Pillai,reyansh.pillai1891.new@outlook.com,+917675300330,Chennai,Tamil Nadu,2025-05-17,BRONZE,UPDATE,2026-10-31 18:00:00
+C000690,Nikhil,Patel,nikhil.patel690@yahoo.in,+916518901705,Kochi,Kerala,2025-09-16,BRONZE,UPDATE,2026-10-31 09:00:00
+C001668,Vihaan,Verma,vihaan.verma1668@yahoo.in,+916846715354,Nagpur,Maharashtra,2025-08-17,SILVER,UPDATE,2026-10-31 06:00:00
+C000036,Saanvi,Agarwal,saanvi.agarwal36@yahoo.in,+918157875862,Jaipur,Rajasthan,2025-11-18,GOLD,UPDATE,2026-10-31 20:00:00
+C001794,Riya,Singh,riya.singh1794@outlook.com,+917012492742,Mysuru,Karnataka,2025-07-07,BRONZE,UPDATE,2026-10-31 05:00:00
+C000437,Nikhil,Singh,nikhil.singh437@yahoo.in,+919293562040,Bengaluru,Karnataka,2026-01-27,PLATINUM,UPDATE,2026-10-31 12:00:00
+C001848,Amit,Rao,amit.rao1848@gmail.com,+917084800363,Indore,Madhya Pradesh,2026-05-15,SILVER,UPDATE,2026-10-31 06:00:00
+C000573,Arjun,Mehta,arjun.mehta573@outlook.com,+919640225077,Pune,Maharashtra,2026-08-16,SILVER,UPDATE,2026-10-31 22:00:00
+C002001,Pooja,Das,pooja.das2001@yahoo.in,+916434643106,Jaipur,Rajasthan,2025-02-12,BRONZE,INSERT,2026-10-31 04:00:00
+C002002,Rohan,Kulkarni,rohan.kulkarni2002@outlook.com,+919545613258,Bengaluru,Karnataka,2025-05-07,SILVER,INSERT,2026-10-31 20:00:00
+C002003,Tanvi,Nair,tanvi.nair2003@outlook.com,+916051628977,Lucknow,Uttar Pradesh,2026-08-12,SILVER,INSERT,2026-10-31 11:00:00
+C002004,Ishaan,Pillai,ishaan.pillai2004@gmail.com,+919586377241,Bengaluru,Karnataka,2026-04-13,BRONZE,INSERT,2026-10-31 05:00:00
+C002005,Tanvi,Nair,tanvi.nair2005@gmail.com,+919032258640,Ahmedabad,Gujarat,2026-09-28,GOLD,INSERT,2026-10-31 21:00:00
+C002006,Ananya,Deshmukh,ananya.deshmukh2006@gmail.com,+918645661780,Delhi,Delhi,2026-05-25,BRONZE,INSERT,2026-10-31 06:00:00
+C002007,Kavya,Shah,kavya.shah2007@yahoo.in,+919122844623,Coimbatore,Tamil Nadu,2026-06-12,BRONZE,INSERT,2026-10-31 06:00:00
+C002008,Neha,Das,neha.das2008@outlook.com,+916492661673,Surat,Gujarat,2025-08-21,SILVER,INSERT,2026-10-31 20:00:00
+C002009,Meera,Shah,meera.shah2009@gmail.com,+917132225978,Lucknow,Uttar Pradesh,2025-08-15,SILVER,INSERT,2026-10-31 13:00:00
+C002010,Nikhil,Joshi,nikhil.joshi2010@yahoo.in,+916799969005,Bhopal,Madhya Pradesh,2026-05-23,GOLD,INSERT,2026-10-31 14:00:00
+C002011,Nikhil,Menon,nikhil.menon2011@gmail.com,+918783495890,Coimbatore,Tamil Nadu,2025-06-27,BRONZE,INSERT,2026-10-31 22:00:00
+C002012,Kavya,Agarwal,kavya.agarwal2012@gmail.com,+918312612586,Hyderabad,Telangana,2025-06-02,BRONZE,INSERT,2026-10-31 15:00:00
+C002013,Sai,Agarwal,sai.agarwal2013@gmail.com,+919315347253,Ahmedabad,Gujarat,2025-08-17,BRONZE,INSERT,2026-10-31 20:00:00
+C002014,Neha,Chatterjee,neha.chatterjee2014@outlook.com,+919657203041,Kolkata,West Bengal,2025-05-27,SILVER,INSERT,2026-10-31 10:00:00
+C002015,Nikhil,Mehta,nikhil.mehta2015@yahoo.in,+916643972132,Chennai,Tamil Nadu,2026-01-08,PLATINUM,INSERT,2026-10-31 16:00:00
+C002016,Ishaan,Shah,ishaan.shah2016@gmail.com,+919394003757,Coimbatore,Tamil Nadu,2025-10-08,BRONZE,INSERT,2026-10-31 18:00:00
+C002017,Arjun,Agarwal,arjun.agarwal2017@outlook.com,+919417039981,Hyderabad,Telangana,2025-11-20,SILVER,INSERT,2026-10-31 22:00:00
+C002018,Karan,Kulkarni,karan.kulkarni2018@gmail.com,+916981217218,Mysuru,Karnataka,2026-02-10,SILVER,INSERT,2026-10-31 20:00:00
+C002019,Kavya,Reddy,kavya.reddy2019@outlook.com,+918788317154,Coimbatore,Tamil Nadu,2024-12-31,SILVER,INSERT,2026-10-31 04:00:00
+C002020,Ishaan,Shah,ishaan.shah2020@gmail.com,+917968000562,Lucknow,Uttar Pradesh,2025-03-10,SILVER,INSERT,2026-10-31 15:00:00
+C002021,Shreya,Pillai,shreya.pillai2021@gmail.com,+916979002071,Bengaluru,Karnataka,2025-06-03,SILVER,INSERT,2026-10-31 08:00:00
+C002022,Vivaan,Agarwal,vivaan.agarwal2022@gmail.com,+917715856160,Bhopal,Madhya Pradesh,2025-04-23,GOLD,INSERT,2026-10-31 18:00:00
+C002023,Rohan,Vaidya,rohan.vaidya2023@gmail.com,+917798654585,Surat,Gujarat,2024-12-10,SILVER,INSERT,2026-10-31 21:00:00
+C002024,Aditya,Kulkarni,aditya.kulkarni2024@gmail.com,+916162190011,Coimbatore,Tamil Nadu,2026-05-21,BRONZE,INSERT,2026-10-31 16:00:00
+C002025,Aarav,Gupta,aarav.gupta2025@gmail.com,+919645381396,Pune,Maharashtra,2026-02-24,GOLD,INSERT,2026-10-31 08:00:00
+C002026,Reyansh,Deshmukh,reyansh.deshmukh2026@outlook.com,+918875327285,Kochi,Kerala,2026-01-25,BRONZE,INSERT,2026-10-31 15:00:00
+C002027,Ananya,Vaidya,ananya.vaidya2027@yahoo.in,+917600427495,Ahmedabad,Gujarat,2024-12-30,BRONZE,INSERT,2026-10-31 08:00:00
+C002028,Neha,Mehta,neha.mehta2028@outlook.com,+916373216409,Pune,Maharashtra,2026-06-12,BRONZE,INSERT,2026-10-31 22:00:00
+C002029,Sneha,Menon,sneha.menon2029@gmail.com,+917167269455,Delhi,Delhi,2025-06-13,BRONZE,INSERT,2026-10-31 08:00:00
+C002030,Reyansh,Reddy,reyansh.reddy2030@outlook.com,+916602294637,Jaipur,Rajasthan,2025-01-14,BRONZE,INSERT,2026-10-31 22:00:00
+C002031,Reyansh,Agarwal,reyansh.agarwal2031@yahoo.in,+917516808132,Hyderabad,Telangana,2026-03-11,BRONZE,INSERT,2026-10-31 07:00:00
+C002032,Sai,Sharma,sai.sharma2032@outlook.com,+916447005892,Nagpur,Maharashtra,2026-03-15,SILVER,INSERT,2026-10-31 17:00:00
+C002033,Yash,Rao,yash.rao2033@gmail.com,+919166195136,Chennai,Tamil Nadu,2026-06-04,BRONZE,INSERT,2026-10-31 22:00:00
+C002034,Sneha,Banerjee,sneha.banerjee2034@outlook.com,+919737580050,Delhi,Delhi,2024-11-26,GOLD,INSERT,2026-10-31 09:00:00
+C002035,Aarav,Singh,aarav.singh2035@outlook.com,+919741595977,Bhopal,Madhya Pradesh,2025-03-18,BRONZE,INSERT,2026-10-31 17:00:00
+C002036,Meera,Das,meera.das2036@outlook.com,+919500588740,Chandigarh,Chandigarh,2024-11-26,PLATINUM,INSERT,2026-10-31 22:00:00
+C002037,Ishaan,Rao,ishaan.rao2037@gmail.com,+918756248112,Chennai,Tamil Nadu,2025-04-28,GOLD,INSERT,2026-10-31 10:00:00
+C002038,Karan,Chatterjee,karan.chatterjee2038@gmail.com,+919540669353,Jaipur,Rajasthan,2025-04-12,BRONZE,INSERT,2026-10-31 23:00:00
+C002039,Sneha,Sharma,sneha.sharma2039@outlook.com,+919685133477,Jaipur,Rajasthan,2026-04-27,BRONZE,INSERT,2026-10-31 06:00:00
+C002040,Diya,Shah,diya.shah2040@gmail.com,+917979159244,Mysuru,Karnataka,2025-11-05,BRONZE,INSERT,2026-10-31 08:00:00
+C002041,Vihaan,Rao,vihaan.rao2041@outlook.com,+919068521816,Bhopal,Madhya Pradesh,2025-10-04,BRONZE,INSERT,2026-10-31 22:00:00
+C002042,Meera,Vaidya,meera.vaidya2042@gmail.com,+917658415324,Surat,Gujarat,2025-06-19,GOLD,INSERT,2026-10-31 15:00:00
+C002043,Isha,Agarwal,isha.agarwal2043@yahoo.in,+916512784212,Lucknow,Uttar Pradesh,2025-06-20,BRONZE,INSERT,2026-10-31 15:00:00
+C002044,Shreya,Sharma,shreya.sharma2044@outlook.com,+916211838847,Jaipur,Rajasthan,2024-11-24,SILVER,INSERT,2026-10-31 19:00:00
+C002045,Krishna,Khan,krishna.khan2045@outlook.com,+918376367456,Chandigarh,Chandigarh,2026-09-27,GOLD,INSERT,2026-10-31 23:00:00
+C002046,Meera,Deshmukh,meera.deshmukh2046@outlook.com,+918241407762,Lucknow,Uttar Pradesh,2026-06-20,BRONZE,INSERT,2026-10-31 04:00:00
+C002047,Tanvi,Deshmukh,tanvi.deshmukh2047@yahoo.in,+918465022093,Bengaluru,Karnataka,2025-01-12,SILVER,INSERT,2026-10-31 12:00:00
+C002048,Arjun,Mehta,arjun.mehta2048@gmail.com,+919974522991,Kochi,Kerala,2026-04-14,BRONZE,INSERT,2026-10-31 15:00:00
+C002049,Pooja,Deshmukh,pooja.deshmukh2049@gmail.com,+919508435778,Mumbai,Maharashtra,2025-12-09,BRONZE,INSERT,2026-10-31 21:00:00
+C002050,Shreya,Shah,shreya.shah2050@yahoo.in,+916806535651,Surat,Gujarat,2025-12-07,BRONZE,INSERT,2026-10-31 12:00:00
+C002051,Diya,Patel,diya.patel2051@gmail.com,+919202340691,Indore,Madhya Pradesh,2026-05-28,BRONZE,INSERT,2026-10-31 19:00:00
+C002052,Riya,Khan,riya.khan2052@gmail.com,+916554224521,Coimbatore,Tamil Nadu,2025-11-20,BRONZE,INSERT,2026-10-31 21:00:00
+C002053,Nikhil,Vaidya,nikhil.vaidya2053@outlook.com,+918475400689,Kochi,Kerala,2025-11-03,BRONZE,INSERT,2026-10-31 09:00:00
+C002054,Kavya,Agarwal,kavya.agarwal2054@outlook.com,+917140049432,Lucknow,Uttar Pradesh,2025-06-12,GOLD,INSERT,2026-10-31 13:00:00
+C002055,Neha,Kulkarni,neha.kulkarni2055@outlook.com,+917983333512,Pune,Maharashtra,2026-05-30,SILVER,INSERT,2026-10-31 06:00:00
+C002056,Amit,Verma,amit.verma2056@gmail.com,+916879132335,Chandigarh,Chandigarh,2025-03-28,BRONZE,INSERT,2026-10-31 09:00:00
+C002057,Shreya,Das,shreya.das2057@gmail.com,+919932133636,Chennai,Tamil Nadu,2024-12-14,BRONZE,INSERT,2026-10-31 19:00:00
+C002058,Shreya,Verma,shreya.verma2058@outlook.com,+918073768901,Coimbatore,Tamil Nadu,2026-02-22,SILVER,INSERT,2026-10-31 15:00:00
+C002059,Saanvi,Gupta,saanvi.gupta2059@outlook.com,+917653636453,Kochi,Kerala,2026-07-22,GOLD,INSERT,2026-10-31 10:00:00
+C002060,Meera,Shah,meera.shah2060@gmail.com,+919954682960,Jaipur,Rajasthan,2024-12-19,BRONZE,INSERT,2026-10-31 13:00:00
+C002061,Tanvi,Iyer,tanvi.iyer2061@yahoo.in,+917399694573,Hyderabad,Telangana,2025-06-23,BRONZE,INSERT,2026-10-31 10:00:00
+C002062,Pooja,Pillai,pooja.pillai2062@yahoo.in,+916793199755,Mumbai,Maharashtra,2026-06-16,BRONZE,INSERT,2026-10-31 11:00:00
+C002063,Ishaan,Rao,ishaan.rao2063@gmail.com,+918721897352,Bengaluru,Karnataka,2026-03-27,SILVER,INSERT,2026-10-31 10:00:00
+C002064,Diya,Agarwal,diya.agarwal2064@gmail.com,+916233907386,Ahmedabad,Gujarat,2026-09-20,BRONZE,INSERT,2026-10-31 13:00:00
+C002065,Tanvi,Joshi,tanvi.joshi2065@gmail.com,+917626179485,Surat,Gujarat,2025-09-15,GOLD,INSERT,2026-10-31 05:00:00
+C002066,Meera,Vaidya,meera.vaidya2066@yahoo.in,+916238273662,Hyderabad,Telangana,2025-09-19,SILVER,INSERT,2026-10-31 04:00:00
+C002067,Sneha,Joshi,sneha.joshi2067@gmail.com,+916764002887,Bengaluru,Karnataka,2025-02-11,BRONZE,INSERT,2026-10-31 10:00:00
+C002068,Ishaan,Deshmukh,ishaan.deshmukh2068@outlook.com,+918616416039,Mumbai,Maharashtra,2026-02-20,BRONZE,INSERT,2026-10-31 15:00:00
+C002069,Krishna,Chatterjee,krishna.chatterjee2069@gmail.com,+919106883890,Bhopal,Madhya Pradesh,2025-06-29,BRONZE,INSERT,2026-10-31 20:00:00
+C002070,Neha,Nair,neha.nair2070@outlook.com,+917561037738,Kolkata,West Bengal,2026-09-22,SILVER,INSERT,2026-10-31 17:00:00
+C002071,Yash,Chatterjee,yash.chatterjee2071@gmail.com,+916758348464,Kolkata,West Bengal,2025-12-14,SILVER,INSERT,2026-10-31 19:00:00
+C002072,Aditi,Agarwal,aditi.agarwal2072@yahoo.in,+918071388056,Bhopal,Madhya Pradesh,2025-03-13,SILVER,INSERT,2026-10-31 06:00:00
+C002073,Nikhil,Patel,nikhil.patel2073@yahoo.in,+919433831499,Bengaluru,Karnataka,2026-06-29,SILVER,INSERT,2026-10-31 09:00:00
+C002074,Riya,Das,riya.das2074@outlook.com,+917962902556,Ahmedabad,Gujarat,2025-04-02,SILVER,INSERT,2026-10-31 06:00:00
+C002075,Varun,Iyer,varun.iyer2075@outlook.com,+918694415068,Kolkata,West Bengal,2026-08-03,SILVER,INSERT,2026-10-31 18:00:00
+C002076,Ananya,Rao,ananya.rao2076@yahoo.in,+918454499740,Ahmedabad,Gujarat,2025-10-02,GOLD,INSERT,2026-10-31 07:00:00
+C002077,Ishaan,Shah,ishaan.shah2077@yahoo.in,+917734970569,Kolkata,West Bengal,2025-07-14,SILVER,INSERT,2026-10-31 04:00:00
+C002078,Diya,Deshmukh,diya.deshmukh2078@yahoo.in,+918721654865,Kochi,Kerala,2025-07-27,BRONZE,INSERT,2026-10-31 07:00:00
+C002079,Aditi,Reddy,aditi.reddy2079@gmail.com,+917333537368,Lucknow,Uttar Pradesh,2026-07-19,BRONZE,INSERT,2026-10-31 14:00:00
+C002080,Riya,Mehta,riya.mehta2080@gmail.com,+919595686638,Mumbai,Maharashtra,2026-05-26,BRONZE,INSERT,2026-10-31 15:00:00
+C001378,Vihaan,Mehta,vihaan.mehta1378@outlook.com,+919903612100,Nagpur,Maharashtra,2026-08-31,SILVER,DELETE,2026-11-01 00:00:00
+C000188,Ishaan,Iyer,ishaan.iyer188@yahoo.in,+919820315488,Surat,Gujarat,2025-09-06,SILVER,DELETE,2026-11-01 00:00:00
+C000921,Saanvi,Chatterjee,saanvi.chatterjee921@yahoo.in,+916853630743,Ahmedabad,Gujarat,2026-06-03,SILVER,DELETE,2026-11-01 00:00:00
+C000179,Saanvi,Das,saanvi.das179@outlook.com,+918869961166,Chennai,Tamil Nadu,2025-01-05,SILVER,DELETE,2026-11-01 00:00:00
+C000579,Yash,Agarwal,yash.agarwal579@gmail.com,+918931535772,Hyderabad,Telangana,2026-09-18,BRONZE,DELETE,2026-11-01 00:00:00
+C001561,Rohan,Kulkarni,rohan.kulkarni1561@gmail.com,+919836015192,Chennai,Tamil Nadu,2025-11-18,PLATINUM,UPDATE,2026-10-31 23:55:00

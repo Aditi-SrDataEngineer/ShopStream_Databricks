@@ -1,0 +1,176 @@
+product_id,product_name,category,sub_category,brand,unit_price,cost_price,is_active,updated_at
+P00001,Samsung Mobiles Model-1,Electronics,Mobiles,Samsung,10050.00,6218.51,Y,2026-10-01 00:00:00
+P00002,Samsung Mobiles Model-2,Electronics,Mobiles,Samsung,26300.00,19307.30,Y,2026-10-01 00:00:00
+P00003,Samsung Mobiles Model-3,Electronics,Mobiles,Samsung,63490.00,49080.62,Y,2026-10-01 00:00:00
+P00004,Samsung Mobiles Model-4,Electronics,Mobiles,Samsung,15130.00,9917.42,Y,2026-10-01 00:00:00
+P00005,Xiaomi Mobiles Model-1,Electronics,Mobiles,Xiaomi,15680.00,9536.03,Y,2026-10-01 00:00:00
+P00006,Xiaomi Mobiles Model-2,Electronics,Mobiles,Xiaomi,57370.00,39603.16,Y,2026-10-01 00:00:00
+P00007,Xiaomi Mobiles Model-3,Electronics,Mobiles,Xiaomi,66710.00,48386.85,Y,2026-10-01 00:00:00
+P00008,Xiaomi Mobiles Model-4,Electronics,Mobiles,Xiaomi,42400.00,28081.62,Y,2026-10-01 00:00:00
+P00009,OnePlus Mobiles Model-1,Electronics,Mobiles,OnePlus,74370.00,41024.33,Y,2026-10-01 00:00:00
+P00010,OnePlus Mobiles Model-2,Electronics,Mobiles,OnePlus,74080.00,53673.54,Y,2026-10-01 00:00:00
+P00011,OnePlus Mobiles Model-3,Electronics,Mobiles,OnePlus,35900.00,21140.43,Y,2026-10-01 00:00:00
+P00012,OnePlus Mobiles Model-4,Electronics,Mobiles,OnePlus,86490.00,54847.52,Y,2026-10-01 00:00:00
+P00013,OnePlus Mobiles Model-5,Electronics,Mobiles,OnePlus,15610.00,8962.94,Y,2026-10-01 00:00:00
+P00014,OnePlus Mobiles Model-6,Electronics,Mobiles,OnePlus,77490.00,54315.18,Y,2026-10-01 00:00:00
+P00015,Apple Mobiles Model-1,Electronics,Mobiles,Apple,67840.00,46406.43,Y,2026-10-01 00:00:00
+P00016,Apple Mobiles Model-2,Electronics,Mobiles,Apple,87800.00,56598.83,Y,2026-10-01 00:00:00
+P00017,Apple Mobiles Model-3,Electronics,Mobiles,Apple,53270.00,40344.10,Y,2026-10-01 00:00:00
+P00018,Apple Mobiles Model-4,Electronics,Mobiles,Apple,58720.00,44945.86,Y,2026-10-01 00:00:00
+P00019,boAt Audio Model-1,Electronics,Audio,boAt,17850.00,10021.99,Y,2026-10-01 00:00:00
+P00020,boAt Audio Model-2,Electronics,Audio,boAt,6320.00,3933.23,Y,2026-10-01 00:00:00
+P00021,boAt Audio Model-3,Electronics,Audio,boAt,2730.00,1660.38,Y,2026-10-01 00:00:00
+P00022,boAt Audio Model-4,Electronics,Audio,boAt,3240.00,2007.16,Y,2026-10-01 00:00:00
+P00023,boAt Audio Model-5,Electronics,Audio,boAt,16180.00,10374.75,Y,2026-10-01 00:00:00
+P00024,Sony Audio Model-1,Electronics,Audio,Sony,9400.00,6744.91,Y,2026-10-01 00:00:00
+P00025,Sony Audio Model-2,Electronics,Audio,Sony,17780.00,12817.37,Y,2026-10-01 00:00:00
+P00026,Sony Audio Model-3,Electronics,Audio,Sony,2530.00,1793.12,Y,2026-10-01 00:00:00
+P00027,Sony Audio Model-4,Electronics,Audio,Sony,13730.00,8391.81,Y,2026-10-01 00:00:00
+P00028,Sony Audio Model-5,Electronics,Audio,Sony,11990.00,7403.67,Y,2026-10-01 00:00:00
+P00029,Sony Audio Model-6,Electronics,Audio,Sony,23190.00,16744.12,Y,2026-10-01 00:00:00
+P00030,JBL Audio Model-1,Electronics,Audio,JBL,17370.00,13213.58,Y,2026-10-01 00:00:00
+P00031,JBL Audio Model-2,Electronics,Audio,JBL,19580.00,11890.19,Y,2026-10-01 00:00:00
+P00032,JBL Audio Model-3,Electronics,Audio,JBL,1580.00,993.60,Y,2026-10-01 00:00:00
+P00033,JBL Audio Model-4,Electronics,Audio,JBL,7280.00,4387.99,Y,2026-10-01 00:00:00
+P00034,JBL Audio Model-5,Electronics,Audio,JBL,23620.00,18165.95,Y,2026-10-01 00:00:00
+P00035,Dell Laptops Model-1,Electronics,Laptops,Dell,59450.00,40117.32,Y,2026-10-01 00:00:00
+P00036,Dell Laptops Model-2,Electronics,Laptops,Dell,136740.00,97182.89,Y,2026-10-01 00:00:00
+P00037,Dell Laptops Model-3,Electronics,Laptops,Dell,51430.00,30081.80,Y,2026-10-01 00:00:00
+P00038,Dell Laptops Model-4,Electronics,Laptops,Dell,120670.00,82628.10,Y,2026-10-01 00:00:00
+P00039,Dell Laptops Model-5,Electronics,Laptops,Dell,120910.00,79450.98,Y,2026-10-01 00:00:00
+P00040,Dell Laptops Model-6,Electronics,Laptops,Dell,102110.00,65401.36,Y,2026-10-01 00:00:00
+P00041,HP Laptops Model-1,Electronics,Laptops,HP,93600.00,53607.28,Y,2026-10-01 00:00:00
+P00042,HP Laptops Model-2,Electronics,Laptops,HP,40420.00,23339.00,Y,2026-10-01 00:00:00
+P00043,HP Laptops Model-3,Electronics,Laptops,HP,107160.00,80157.81,Y,2026-10-01 00:00:00
+P00044,HP Laptops Model-4,Electronics,Laptops,HP,83550.00,47279.43,Y,2026-10-01 00:00:00
+P00045,HP Laptops Model-5,Electronics,Laptops,HP,78890.00,63035.50,Y,2026-10-01 00:00:00
+P00046,Lenovo Laptops Model-1,Electronics,Laptops,Lenovo,146670.00,112231.14,Y,2026-10-01 00:00:00
+P00047,Lenovo Laptops Model-2,Electronics,Laptops,Lenovo,36320.00,26520.15,Y,2026-10-01 00:00:00
+P00048,Lenovo Laptops Model-3,Electronics,Laptops,Lenovo,113400.00,77593.11,Y,2026-10-01 00:00:00
+P00049,Lenovo Laptops Model-4,Electronics,Laptops,Lenovo,65680.00,46648.59,Y,2026-10-01 00:00:00
+P00050,Lenovo Laptops Model-5,Electronics,Laptops,Lenovo,47830.00,31505.21,Y,2026-10-01 00:00:00
+P00051,Lenovo Laptops Model-6,Electronics,Laptops,Lenovo,87180.00,68737.42,Y,2026-10-01 00:00:00
+P00052,Peter England Men Apparel Model-1,Fashion,Men Apparel,Peter England,3900.00,2887.91,Y,2026-10-01 00:00:00
+P00053,Peter England Men Apparel Model-2,Fashion,Men Apparel,Peter England,2330.00,1343.48,Y,2026-10-01 00:00:00
+P00054,Peter England Men Apparel Model-3,Fashion,Men Apparel,Peter England,2730.00,2075.94,Y,2026-10-01 00:00:00
+P00055,Peter England Men Apparel Model-4,Fashion,Men Apparel,Peter England,2330.00,1397.37,Y,2026-10-01 00:00:00
+P00056,Peter England Men Apparel Model-5,Fashion,Men Apparel,Peter England,1870.00,1104.02,Y,2026-10-01 00:00:00
+P00057,Peter England Men Apparel Model-6,Fashion,Men Apparel,Peter England,3840.00,2997.54,Y,2026-10-01 00:00:00
+P00058,Allen Solly Men Apparel Model-1,Fashion,Men Apparel,Allen Solly,2640.00,1774.48,Y,2026-10-01 00:00:00
+P00059,Allen Solly Men Apparel Model-2,Fashion,Men Apparel,Allen Solly,980.00,627.93,Y,2026-10-01 00:00:00
+P00060,Allen Solly Men Apparel Model-3,Fashion,Men Apparel,Allen Solly,3950.00,2969.19,Y,2026-10-01 00:00:00
+P00061,Allen Solly Men Apparel Model-4,Fashion,Men Apparel,Allen Solly,1410.00,860.41,Y,2026-10-01 00:00:00
+P00062,Levis Men Apparel Model-1,Fashion,Men Apparel,Levis,890.00,597.63,Y,2026-10-01 00:00:00
+P00063,Levis Men Apparel Model-2,Fashion,Men Apparel,Levis,840.00,621.73,Y,2026-10-01 00:00:00
+P00064,Levis Men Apparel Model-3,Fashion,Men Apparel,Levis,3200.00,1862.71,Y,2026-10-01 00:00:00
+P00065,Levis Men Apparel Model-4,Fashion,Men Apparel,Levis,2220.00,1526.14,Y,2026-10-01 00:00:00
+P00066,Biba Women Apparel Model-1,Fashion,Women Apparel,Biba,2970.00,2083.90,Y,2026-10-01 00:00:00
+P00067,Biba Women Apparel Model-2,Fashion,Women Apparel,Biba,4850.00,3793.81,Y,2026-10-01 00:00:00
+P00068,Biba Women Apparel Model-3,Fashion,Women Apparel,Biba,3950.00,2853.74,Y,2026-10-01 00:00:00
+P00069,Biba Women Apparel Model-4,Fashion,Women Apparel,Biba,3770.00,2449.55,Y,2026-10-01 00:00:00
+P00070,Biba Women Apparel Model-5,Fashion,Women Apparel,Biba,3590.00,2309.64,Y,2026-10-01 00:00:00
+P00071,Biba Women Apparel Model-6,Fashion,Women Apparel,Biba,4570.00,3029.32,Y,2026-10-01 00:00:00
+P00072,W Women Apparel Model-1,Fashion,Women Apparel,W,1670.00,1059.65,Y,2026-10-01 00:00:00
+P00073,W Women Apparel Model-2,Fashion,Women Apparel,W,3230.00,1962.32,Y,2026-10-01 00:00:00
+P00074,W Women Apparel Model-3,Fashion,Women Apparel,W,1650.00,936.78,Y,2026-10-01 00:00:00
+P00075,W Women Apparel Model-4,Fashion,Women Apparel,W,3410.00,2070.67,Y,2026-10-01 00:00:00
+P00076,W Women Apparel Model-5,Fashion,Women Apparel,W,4590.00,3510.93,Y,2026-10-01 00:00:00
+P00077,FabIndia Women Apparel Model-1,Fashion,Women Apparel,FabIndia,2910.00,1803.09,Y,2026-10-01 00:00:00
+P00078,FabIndia Women Apparel Model-2,Fashion,Women Apparel,FabIndia,2790.00,1910.62,Y,2026-10-01 00:00:00
+P00079,FabIndia Women Apparel Model-3,Fashion,Women Apparel,FabIndia,3810.00,2935.97,Y,2026-10-01 00:00:00
+P00080,FabIndia Women Apparel Model-4,Fashion,Women Apparel,FabIndia,3180.00,1942.18,Y,2026-10-01 00:00:00
+P00081,Bata Footwear Model-1,Fashion,Footwear,Bata,7440.00,4446.16,Y,2026-10-01 00:00:00
+P00082,Bata Footwear Model-2,Fashion,Footwear,Bata,1690.00,1111.62,Y,2026-10-01 00:00:00
+P00083,Bata Footwear Model-3,Fashion,Footwear,Bata,4330.00,2887.05,Y,2026-10-01 00:00:00
+P00084,Bata Footwear Model-4,Fashion,Footwear,Bata,6810.00,4891.90,Y,2026-10-01 00:00:00
+P00085,Bata Footwear Model-5,Fashion,Footwear,Bata,8870.00,5096.74,Y,2026-10-01 00:00:00
+P00086,Bata Footwear Model-6,Fashion,Footwear,Bata,4160.00,2640.87,Y,2026-10-01 00:00:00
+P00087,Bata Footwear Model-7,Fashion,Footwear,Bata,7880.00,4823.85,Y,2026-10-01 00:00:00
+P00088,Puma Footwear Model-1,Fashion,Footwear,Puma,5240.00,3065.64,Y,2026-10-01 00:00:00
+P00089,Puma Footwear Model-2,Fashion,Footwear,Puma,2390.00,1590.92,Y,2026-10-01 00:00:00
+P00090,Puma Footwear Model-3,Fashion,Footwear,Puma,7980.00,4539.39,Y,2026-10-01 00:00:00
+P00091,Puma Footwear Model-4,Fashion,Footwear,Puma,7440.00,5684.10,Y,2026-10-01 00:00:00
+P00092,Puma Footwear Model-5,Fashion,Footwear,Puma,1690.00,1205.03,Y,2026-10-01 00:00:00
+P00093,Nike Footwear Model-1,Fashion,Footwear,Nike,8750.00,6838.93,Y,2026-10-01 00:00:00
+P00094,Nike Footwear Model-2,Fashion,Footwear,Nike,7770.00,4596.56,Y,2026-10-01 00:00:00
+P00095,Nike Footwear Model-3,Fashion,Footwear,Nike,4830.00,2914.60,Y,2026-10-01 00:00:00
+P00096,Nike Footwear Model-4,Fashion,Footwear,Nike,4150.00,2343.33,Y,2026-10-01 00:00:00
+P00097,Prestige Kitchen Model-1,Home,Kitchen,Prestige,320.00,207.23,Y,2026-10-01 00:00:00
+P00098,Prestige Kitchen Model-2,Home,Kitchen,Prestige,7430.00,5544.88,Y,2026-10-01 00:00:00
+P00099,Prestige Kitchen Model-3,Home,Kitchen,Prestige,2500.00,1810.37,Y,2026-10-01 00:00:00
+P00100,Prestige Kitchen Model-4,Home,Kitchen,Prestige,5920.00,4415.38,Y,2026-10-01 00:00:00
+P00101,Prestige Kitchen Model-5,Home,Kitchen,Prestige,5400.00,3627.01,Y,2026-10-01 00:00:00
+P00102,Prestige Kitchen Model-6,Home,Kitchen,Prestige,1760.00,1063.79,Y,2026-10-01 00:00:00
+P00103,Prestige Kitchen Model-7,Home,Kitchen,Prestige,750.00,550.45,Y,2026-10-01 00:00:00
+P00104,Pigeon Kitchen Model-1,Home,Kitchen,Pigeon,6060.00,3419.61,Y,2026-10-01 00:00:00
+P00105,Pigeon Kitchen Model-2,Home,Kitchen,Pigeon,4800.00,3243.42,Y,2026-10-01 00:00:00
+P00106,Pigeon Kitchen Model-3,Home,Kitchen,Pigeon,6870.00,4048.89,Y,2026-10-01 00:00:00
+P00107,Pigeon Kitchen Model-4,Home,Kitchen,Pigeon,7700.00,4389.21,Y,2026-10-01 00:00:00
+P00108,Borosil Kitchen Model-1,Home,Kitchen,Borosil,830.00,470.60,Y,2026-10-01 00:00:00
+P00109,Borosil Kitchen Model-2,Home,Kitchen,Borosil,6940.00,4517.55,Y,2026-10-01 00:00:00
+P00110,Borosil Kitchen Model-3,Home,Kitchen,Borosil,7550.00,5227.76,Y,2026-10-01 00:00:00
+P00111,Borosil Kitchen Model-4,Home,Kitchen,Borosil,4760.00,2665.29,Y,2026-10-01 00:00:00
+P00112,Borosil Kitchen Model-5,Home,Kitchen,Borosil,930.00,664.34,Y,2026-10-01 00:00:00
+P00113,Bombay Dyeing Furnishing Model-1,Home,Furnishing,Bombay Dyeing,5640.00,3390.01,Y,2026-10-01 00:00:00
+P00114,Bombay Dyeing Furnishing Model-2,Home,Furnishing,Bombay Dyeing,4440.00,2706.94,Y,2026-10-01 00:00:00
+P00115,Bombay Dyeing Furnishing Model-3,Home,Furnishing,Bombay Dyeing,2680.00,1924.03,Y,2026-10-01 00:00:00
+P00116,Bombay Dyeing Furnishing Model-4,Home,Furnishing,Bombay Dyeing,2150.00,1352.45,Y,2026-10-01 00:00:00
+P00117,Bombay Dyeing Furnishing Model-5,Home,Furnishing,Bombay Dyeing,4640.00,2636.15,Y,2026-10-01 00:00:00
+P00118,Bombay Dyeing Furnishing Model-6,Home,Furnishing,Bombay Dyeing,3020.00,2414.83,Y,2026-10-01 00:00:00
+P00119,Spaces Furnishing Model-1,Home,Furnishing,Spaces,900.00,542.96,Y,2026-10-01 00:00:00
+P00120,Spaces Furnishing Model-2,Home,Furnishing,Spaces,1960.00,1535.30,Y,2026-10-01 00:00:00
+P00121,Spaces Furnishing Model-3,Home,Furnishing,Spaces,5340.00,4110.83,Y,2026-10-01 00:00:00
+P00122,Spaces Furnishing Model-4,Home,Furnishing,Spaces,2530.00,1491.27,Y,2026-10-01 00:00:00
+P00123,Tata Staples Model-1,Grocery,Staples,Tata,570.00,454.18,Y,2026-10-01 00:00:00
+P00124,Tata Staples Model-2,Grocery,Staples,Tata,610.00,336.69,Y,2026-10-01 00:00:00
+P00125,Tata Staples Model-3,Grocery,Staples,Tata,750.00,468.63,Y,2026-10-01 00:00:00
+P00126,Tata Staples Model-4,Grocery,Staples,Tata,620.00,486.53,Y,2026-10-01 00:00:00
+P00127,Tata Staples Model-5,Grocery,Staples,Tata,170.00,98.41,Y,2026-10-01 00:00:00
+P00128,Tata Staples Model-6,Grocery,Staples,Tata,150.00,103.25,Y,2026-10-01 00:00:00
+P00129,Aashirvaad Staples Model-1,Grocery,Staples,Aashirvaad,300.00,180.80,Y,2026-10-01 00:00:00
+P00130,Aashirvaad Staples Model-2,Grocery,Staples,Aashirvaad,350.00,252.66,Y,2026-10-01 00:00:00
+P00131,Aashirvaad Staples Model-3,Grocery,Staples,Aashirvaad,780.00,527.55,Y,2026-10-01 00:00:00
+P00132,Aashirvaad Staples Model-4,Grocery,Staples,Aashirvaad,270.00,209.80,Y,2026-10-01 00:00:00
+P00133,Aashirvaad Staples Model-5,Grocery,Staples,Aashirvaad,100.00,70.86,Y,2026-10-01 00:00:00
+P00134,Aashirvaad Staples Model-6,Grocery,Staples,Aashirvaad,760.00,426.38,Y,2026-10-01 00:00:00
+P00135,Fortune Staples Model-1,Grocery,Staples,Fortune,710.00,503.59,Y,2026-10-01 00:00:00
+P00136,Fortune Staples Model-2,Grocery,Staples,Fortune,280.00,205.89,Y,2026-10-01 00:00:00
+P00137,Fortune Staples Model-3,Grocery,Staples,Fortune,520.00,341.60,Y,2026-10-01 00:00:00
+P00138,Fortune Staples Model-4,Grocery,Staples,Fortune,70.00,39.82,Y,2026-10-01 00:00:00
+P00139,Fortune Staples Model-5,Grocery,Staples,Fortune,800.00,620.79,Y,2026-10-01 00:00:00
+P00140,Fortune Staples Model-6,Grocery,Staples,Fortune,520.00,394.50,Y,2026-10-01 00:00:00
+P00141,Tata Tea Beverages Model-1,Grocery,Beverages,Tata Tea,410.00,229.79,Y,2026-10-01 00:00:00
+P00142,Tata Tea Beverages Model-2,Grocery,Beverages,Tata Tea,370.00,289.81,Y,2026-10-01 00:00:00
+P00143,Tata Tea Beverages Model-3,Grocery,Beverages,Tata Tea,780.00,436.78,Y,2026-10-01 00:00:00
+P00144,Tata Tea Beverages Model-4,Grocery,Beverages,Tata Tea,360.00,259.39,Y,2026-10-01 00:00:00
+P00145,Tata Tea Beverages Model-5,Grocery,Beverages,Tata Tea,570.00,363.90,Y,2026-10-01 00:00:00
+P00146,Bru Beverages Model-1,Grocery,Beverages,Bru,780.00,575.15,Y,2026-10-01 00:00:00
+P00147,Bru Beverages Model-2,Grocery,Beverages,Bru,750.00,456.89,Y,2026-10-01 00:00:00
+P00148,Bru Beverages Model-3,Grocery,Beverages,Bru,230.00,172.49,Y,2026-10-01 00:00:00
+P00149,Bru Beverages Model-4,Grocery,Beverages,Bru,240.00,156.74,Y,2026-10-01 00:00:00
+P00150,Bru Beverages Model-5,Grocery,Beverages,Bru,240.00,187.47,Y,2026-10-01 00:00:00
+P00151,Bru Beverages Model-6,Grocery,Beverages,Bru,650.00,424.40,Y,2026-10-01 00:00:00
+P00152,Bru Beverages Model-7,Grocery,Beverages,Bru,580.00,425.58,Y,2026-10-01 00:00:00
+P00153,Nescafe Beverages Model-1,Grocery,Beverages,Nescafe,300.00,224.05,Y,2026-10-01 00:00:00
+P00154,Nescafe Beverages Model-2,Grocery,Beverages,Nescafe,190.00,145.93,Y,2026-10-01 00:00:00
+P00155,Nescafe Beverages Model-3,Grocery,Beverages,Nescafe,700.00,423.93,Y,2026-10-01 00:00:00
+P00156,Nescafe Beverages Model-4,Grocery,Beverages,Nescafe,680.00,452.25,Y,2026-10-01 00:00:00
+P00157,Nescafe Beverages Model-5,Grocery,Beverages,Nescafe,330.00,247.12,Y,2026-10-01 00:00:00
+P00158,Lakme Skincare Model-1,Beauty,Skincare,Lakme,450.00,321.75,Y,2026-10-01 00:00:00
+P00159,Lakme Skincare Model-2,Beauty,Skincare,Lakme,690.00,427.56,Y,2026-10-01 00:00:00
+P00160,Lakme Skincare Model-3,Beauty,Skincare,Lakme,240.00,178.40,Y,2026-10-01 00:00:00
+P00161,Lakme Skincare Model-4,Beauty,Skincare,Lakme,620.00,419.96,Y,2026-10-01 00:00:00
+P00162,Lakme Skincare Model-5,Beauty,Skincare,Lakme,1070.00,814.18,Y,2026-10-01 00:00:00
+P00163,Mamaearth Skincare Model-1,Beauty,Skincare,Mamaearth,1420.00,821.95,Y,2026-10-01 00:00:00
+P00164,Mamaearth Skincare Model-2,Beauty,Skincare,Mamaearth,1460.00,868.18,Y,2026-10-01 00:00:00
+P00165,Mamaearth Skincare Model-3,Beauty,Skincare,Mamaearth,1450.00,893.73,Y,2026-10-01 00:00:00
+P00166,Mamaearth Skincare Model-4,Beauty,Skincare,Mamaearth,300.00,197.59,Y,2026-10-01 00:00:00
+P00167,Mamaearth Skincare Model-5,Beauty,Skincare,Mamaearth,1130.00,710.11,Y,2026-10-01 00:00:00
+P00168,Mamaearth Skincare Model-6,Beauty,Skincare,Mamaearth,970.00,657.52,Y,2026-10-01 00:00:00
+P00169,Nivea Skincare Model-1,Beauty,Skincare,Nivea,1360.00,812.63,Y,2026-10-01 00:00:00
+P00170,Nivea Skincare Model-2,Beauty,Skincare,Nivea,210.00,138.39,Y,2026-10-01 00:00:00
+P00171,Nivea Skincare Model-3,Beauty,Skincare,Nivea,850.00,638.88,Y,2026-10-01 00:00:00
+P00172,Nivea Skincare Model-4,Beauty,Skincare,Nivea,1080.00,847.87,Y,2026-10-01 00:00:00
+P00173,Nivea Skincare Model-5,Beauty,Skincare,Nivea,1150.00,689.15,Y,2026-10-01 00:00:00
+P00174,Nivea Skincare Model-6,Beauty,Skincare,Nivea,730.00,574.67,Y,2026-10-01 00:00:00
+P00175,Nivea Skincare Model-7,Beauty,Skincare,Nivea,1390.00,981.05,Y,2026-10-01 00:00:00

@@ -1,0 +1,31 @@
+# Databricks Asset Bundle (DABs) — infrastructure-as-code for the whole project.
+#   databricks bundle validate -t dev
+#   databricks bundle deploy   -t dev
+#   databricks bundle run shopstream_daily_job -t dev
+bundle:
+  name: shopstream-lakehouse
+
+include:
+  - resources/*.yml
+
+variables:
+  catalog:
+    description: Unity Catalog catalog for all layers
+    default: shopstream
+  notify_email:
+    description: Who gets failure alerts
+    default: you@example.com
+
+targets:
+  dev:
+    mode: development          # prefixes resources with [dev <user>], pauses schedules
+    default: true
+    workspace:
+      host: https://<your-workspace>.cloud.databricks.com
+  prod:
+    mode: production
+    workspace:
+      host: https://<your-workspace>.cloud.databricks.com
+      root_path: /Workspace/Shared/.bundle/${bundle.name}/${bundle.target}
+    variables:
+      catalog: shopstream
